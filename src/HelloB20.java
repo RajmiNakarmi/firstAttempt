@@ -3,6 +3,6 @@ public class HelloB20 {
         System.out.println("hello");
         System.out.println("hello again");
         System.out.println("how are you?");
-        System.out.println("i am good.");
+        System.out.println("i am well.");
     }
 }
