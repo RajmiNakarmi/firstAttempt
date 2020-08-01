@@ -6,7 +6,7 @@ public class login {
               System.out.println("you are right");
 
           }else{
-              System.out.println("think one more time");
+              System.out.println("think one more time, i will give got you a chance");
           }
     }
 }
