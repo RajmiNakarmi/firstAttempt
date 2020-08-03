@@ -3,7 +3,7 @@ public class login {
         int a =1;
         int b= 2;
           if(a==b){
-              System.out.println("you are right");
+              System.out.println("you are right.");
 
           }else{
               System.out.println("think one more time, i will give got you a chance");
